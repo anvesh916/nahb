@@ -10,7 +10,7 @@
   --purple: #7971ea;
   --pink: #e83e8c;
   --red: #f23a2e;
-  --orange: #f89d13;
+  --orange: #8c1d40;
   --yellow: #eec60a;
   --green: #7cbd1e;
   --teal: #20c997;
@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #f89d13;
+  --primary: #8c1d40;
   --secondary: #6c757d;
   --success: #7cbd1e;
   --info: #53cde2;
@@ -115,12 +115,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #f89d13;
+  color: #8c1d40;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #b97205;
+    color: #d23153;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -579,8 +579,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #f89d13;
-  border-color: #f89d13; }
+  background-color: #8c1d40;
+  border-color: #8c1d40; }
   .btn-primary:hover {
     color: #fff;
     background-color: #de8807;
@@ -590,8 +590,8 @@ fieldset:disabled a.btn {
     box-shadow: 0 0 0 0.2rem rgba(248, 157, 19, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #212529;
-    background-color: #f89d13;
-    border-color: #f89d13; }
+    background-color: #8c1d40;
+    border-color: #8c1d40; }
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
   .show > .btn-primary.dropdown-toggle {
     color: #fff;
@@ -603,25 +603,25 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(248, 157, 19, 0.5); }
 
 .btn-outline-primary {
-  color: #f89d13;
+  color: #8c1d40;
   background-color: transparent;
   background-image: none;
-  border-color: #f89d13; }
+  border-color: #8c1d40; }
   .btn-outline-primary:hover {
     color: #212529;
-    background-color: #f89d13;
-    border-color: #f89d13; }
+    background-color: #8c1d40;
+    border-color: #8c1d40; }
   .btn-outline-primary:focus, .btn-outline-primary.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(248, 157, 19, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(248, 157, 19, 0.5); }
   .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #f89d13;
+    color: #8c1d40;
     background-color: transparent; }
   .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
   .show > .btn-outline-primary.dropdown-toggle {
     color: #212529;
-    background-color: #f89d13;
-    border-color: #f89d13; }
+    background-color: #8c1d40;
+    border-color: #8c1d40; }
     .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-primary.dropdown-toggle:focus {
       -webkit-box-shadow: 0 0 0 0.2rem rgba(248, 157, 19, 0.5);
@@ -819,7 +819,7 @@ input[type="button"].btn-block {
   .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #f89d13; }
+    background-color: #8c1d40; }
   .dropdown-item.disabled, .dropdown-item:disabled {
     color: #6c757d;
     background-color: transparent; }
@@ -962,7 +962,7 @@ input[type="button"].btn-block {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #f89d13;
+  background-color: #8c1d40;
   -webkit-transition: width 0.6s ease;
   -o-transition: width 0.6s ease;
   transition: width 0.6s ease; }
@@ -1014,8 +1014,8 @@ input[type="button"].btn-block {
   .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #f89d13;
-    border-color: #f89d13; }
+    background-color: #8c1d40;
+    border-color: #8c1d40; }
 
 .close {
   float: right;
@@ -1321,7 +1321,7 @@ button.close {
     background-color: #fff; }
 
 .bg-primary {
-  background-color: #f89d13 !important; }
+  background-color: #8C1D40 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -1352,7 +1352,7 @@ button.bg-light:focus {
   border: 0 !important; }
 
 .border-primary {
-  border-color: #f89d13 !important; }
+  border-color: #8c1d40 !important; }
 
 .rounded {
   border-radius: 0.25rem !important; }
